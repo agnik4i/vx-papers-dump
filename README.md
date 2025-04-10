@@ -1,4 +1,4 @@
-# VX Papers Dumo
+# VX Papers Dump
 
 This tool automates the download of PDF papers from [VX Underground](https://vx-underground.org/Papers/Windows/) using Playwright and Python.
 
