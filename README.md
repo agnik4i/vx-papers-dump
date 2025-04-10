@@ -23,5 +23,5 @@ This tool automates the download of PDF papers from [VX Underground](https://vx-
 Install dependencies:
 ```bash
 pipenv shell
-pip install -r requirements.txt
+pip install playwright
 playwright install
